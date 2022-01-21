@@ -49,9 +49,9 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
+  - title:             CV
     url:               /example/
-  - title:             Documentation
+  - title:             Projects
     url:               /docs/
   - title:             About
     url:               /about/
